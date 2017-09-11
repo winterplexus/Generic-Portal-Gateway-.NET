@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\FPLS\UserRolesServer</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/PortalGatewayUserRolesServer.dll">
+      <publishTime>07/18/2017 16:03:38</publishTime>
+    </File>
+    <File Include="bin/PortalGatewayUserRolesServer.Utility.dll">
+      <publishTime>07/18/2017 16:03:38</publishTime>
+    </File>
+    <File Include="NameKey.snk">
+      <publishTime>01/24/2017 15:42:41</publishTime>
+    </File>
+    <File Include="UserRolesService.svc">
+      <publishTime>06/15/2017 11:55:00</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/18/2017 16:04:06</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

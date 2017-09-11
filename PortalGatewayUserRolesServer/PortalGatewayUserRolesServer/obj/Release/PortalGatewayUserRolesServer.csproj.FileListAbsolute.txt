@@ -1,0 +1,8 @@
+C:\Users\spanglee\Documents\Visual Studio 2015\Projects\projects\Generic Portal Gateway\PortalGatewayUserRolesServer\PortalGatewayUserRolesServer\bin\PortalGatewayUserRolesServer.dll.config
+C:\Users\spanglee\Documents\Visual Studio 2015\Projects\projects\Generic Portal Gateway\PortalGatewayUserRolesServer\PortalGatewayUserRolesServer\bin\PortalGatewayUserRolesServer.dll
+C:\Users\spanglee\Documents\Visual Studio 2015\Projects\projects\Generic Portal Gateway\PortalGatewayUserRolesServer\PortalGatewayUserRolesServer\bin\PortalGatewayUserRolesServer.pdb
+C:\Users\spanglee\Documents\Visual Studio 2015\Projects\projects\Generic Portal Gateway\PortalGatewayUserRolesServer\PortalGatewayUserRolesServer\bin\PortalGatewayUserRolesServer.Utility.dll
+C:\Users\spanglee\Documents\Visual Studio 2015\Projects\projects\Generic Portal Gateway\PortalGatewayUserRolesServer\PortalGatewayUserRolesServer\bin\PortalGatewayUserRolesServer.Utility.pdb
+C:\Users\spanglee\Documents\Visual Studio 2015\Projects\projects\Generic Portal Gateway\PortalGatewayUserRolesServer\PortalGatewayUserRolesServer\obj\Release\PortalGatewayUserRolesServer.csprojResolveAssemblyReference.cache
+C:\Users\spanglee\Documents\Visual Studio 2015\Projects\projects\Generic Portal Gateway\PortalGatewayUserRolesServer\PortalGatewayUserRolesServer\obj\Release\PortalGatewayUserRolesServer.dll
+C:\Users\spanglee\Documents\Visual Studio 2015\Projects\projects\Generic Portal Gateway\PortalGatewayUserRolesServer\PortalGatewayUserRolesServer\obj\Release\PortalGatewayUserRolesServer.pdb
