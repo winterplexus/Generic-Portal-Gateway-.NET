@@ -1,4 +1,0 @@
-C:\Users\spanglee\Documents\Visual Studio 2015\Projects\projects\Generic Portal Gateway\PortalGatewayUserRolesServer\PortalGatewayUserRolesServer.Utility\bin\Release\PortalGatewayUserRolesServer.Utility.dll
-C:\Users\spanglee\Documents\Visual Studio 2015\Projects\projects\Generic Portal Gateway\PortalGatewayUserRolesServer\PortalGatewayUserRolesServer.Utility\bin\Release\PortalGatewayUserRolesServer.Utility.pdb
-C:\Users\spanglee\Documents\Visual Studio 2015\Projects\projects\Generic Portal Gateway\PortalGatewayUserRolesServer\PortalGatewayUserRolesServer.Utility\obj\Release\PortalGatewayUserRolesServer.Utility.dll
-C:\Users\spanglee\Documents\Visual Studio 2015\Projects\projects\Generic Portal Gateway\PortalGatewayUserRolesServer\PortalGatewayUserRolesServer.Utility\obj\Release\PortalGatewayUserRolesServer.Utility.pdb

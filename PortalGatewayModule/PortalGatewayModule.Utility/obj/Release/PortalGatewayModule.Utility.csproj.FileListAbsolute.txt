@@ -1,9 +1,0 @@
-C:\Users\spanglee\Documents\Visual Studio 2015\Projects\projects\Generic Portal Gateway\PortalGatewayModule\PortalGatewayModule.Utility\bin\Release\PortalGatewayModule.Utility.dll
-C:\Users\spanglee\Documents\Visual Studio 2015\Projects\projects\Generic Portal Gateway\PortalGatewayModule\PortalGatewayModule.Utility\bin\Release\PortalGatewayModule.Utility.pdb
-C:\Users\spanglee\Documents\Visual Studio 2015\Projects\projects\Generic Portal Gateway\PortalGatewayModule\PortalGatewayModule.Utility\bin\Release\PortalGatewayModule.Utility.dll.CodeAnalysisLog.xml
-C:\Users\spanglee\Documents\Visual Studio 2015\Projects\projects\Generic Portal Gateway\PortalGatewayModule\PortalGatewayModule.Utility\bin\Release\PortalGatewayModule.Utility.dll.lastcodeanalysissucceeded
-C:\Users\spanglee\Documents\Visual Studio 2015\Projects\projects\Generic Portal Gateway\PortalGatewayModule\PortalGatewayModule.Utility\bin\Release\NLog.dll
-C:\Users\spanglee\Documents\Visual Studio 2015\Projects\projects\Generic Portal Gateway\PortalGatewayModule\PortalGatewayModule.Utility\bin\Release\NLog.xml
-C:\Users\spanglee\Documents\Visual Studio 2015\Projects\projects\Generic Portal Gateway\PortalGatewayModule\PortalGatewayModule.Utility\obj\Release\PortalGatewayModule.Utility.csprojResolveAssemblyReference.cache
-C:\Users\spanglee\Documents\Visual Studio 2015\Projects\projects\Generic Portal Gateway\PortalGatewayModule\PortalGatewayModule.Utility\obj\Release\PortalGatewayModule.Utility.dll
-C:\Users\spanglee\Documents\Visual Studio 2015\Projects\projects\Generic Portal Gateway\PortalGatewayModule\PortalGatewayModule.Utility\obj\Release\PortalGatewayModule.Utility.pdb
