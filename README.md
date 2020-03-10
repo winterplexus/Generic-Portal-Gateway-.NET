@@ -1,5 +1,5 @@
-asp-net-generic-portal-gateway
-==============================
+Generic Portal Gateway for .NET
+===============================
 
 Generic portal gateway is based on .NET technology, ASP.NET MVC (Model View Controller), IIS custom HTTP module, C# language and standard HTML/CSS.
 
